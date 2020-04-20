@@ -1,1 +1,1 @@
-![Image of Timothy](https://photos.google.com/photo/AF1QipNxAsXWmG5JhtZjcxjY_BiJjxmsGvVmqUiXsGTA)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
